@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project SPIDERUI -->
+<!-- Saved: 2017-04-22, 17:23:29 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{6499ff99-d6ad-4661-a6ec-cd8e82273856}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-04-22, 17:23:11</Created>
+    <Resource>
+      <Filename>UI.py</Filename>
+      <Linenumber>34</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{52c7cbc8-b8f6-40bc-b2d6-a637aa868836}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-04-22, 17:23:11</Created>
+    <Resource>
+      <Filename>UI.py</Filename>
+      <Linenumber>42</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{acb045d4-12b9-4faa-b672-a5bb1168c35a}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-04-22, 17:23:11</Created>
+    <Resource>
+      <Filename>UI.py</Filename>
+      <Linenumber>52</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>

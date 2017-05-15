@@ -1,0 +1,53 @@
+2017-04-23 12:42:44 [scrapy.utils.log] INFO: Scrapy 1.3.3 started (bot: ['lsy_spider'])
+2017-04-23 12:42:44 [scrapy.utils.log] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'lsy_spider.spiders', 'SPIDER_MODULES': ['lsy_spider.spiders'], 'LOG_FILE': u'C:\\lsy_spider\\lsy_spider\\log2017-04-23 124220.txt', 'SCHEDULER': 'lsy_spider.scrapy_redis.scheduler.Scheduler', 'BOT_NAME': ['lsy_spider']}
+2017-04-23 12:42:44 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.corestats.CoreStats']
+2017-04-23 12:42:44 [lsy_spider] DEBUG: Reading URLs from redis list 'lsy_spider:start_urls'
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: UI version is 4.0
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: uiname is Dialog
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: toplevel widget is QDialog
+2017-04-23 12:42:44 [PyQt4.uic.properties] DEBUG: setting property geometry
+2017-04-23 12:42:44 [PyQt4.uic.properties] DEBUG: setting property windowTitle
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: push QDialog Dialog
+2017-04-23 12:42:44 [PyQt4.uic.properties] DEBUG: setting property geometry
+2017-04-23 12:42:44 [PyQt4.uic.properties] DEBUG: setting property currentIndex
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: push QTabWidget tabWidget
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: push QWidget tab
+2017-04-23 12:42:44 [PyQt4.uic.properties] DEBUG: setting property geometry
+2017-04-23 12:42:44 [PyQt4.uic.properties] DEBUG: setting property title
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: push QGroupBox groupBox
+2017-04-23 12:42:44 [PyQt4.uic.properties] DEBUG: setting property geometry
+2017-04-23 12:42:44 [PyQt4.uic.properties] DEBUG: setting property font
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: push QTextBrowser cons
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: pop widget QTextBrowser cons
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: new topwidget self.groupBox
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: pop widget QGroupBox groupBox
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: new topwidget self.tab
+2017-04-23 12:42:44 [PyQt4.uic.properties] DEBUG: setting property geometry
+2017-04-23 12:42:44 [PyQt4.uic.properties] DEBUG: setting property text
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: push QPushButton pushButton
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: pop widget QPushButton pushButton
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: new topwidget self.tab
+2017-04-23 12:42:44 [PyQt4.uic.properties] DEBUG: setting property geometry
+2017-04-23 12:42:44 [PyQt4.uic.properties] DEBUG: setting property text
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: push QPushButton pushButton_2
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: pop widget QPushButton pushButton_2
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: new topwidget self.tab
+2017-04-23 12:42:44 [PyQt4.uic.properties] DEBUG: setting property geometry
+2017-04-23 12:42:44 [PyQt4.uic.properties] DEBUG: setting property text
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: push QPushButton pushButton_3
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: pop widget QPushButton pushButton_3
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: new topwidget self.tab
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: pop widget QWidget tab
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: new topwidget self.tabWidget
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: push QWidget tab_2
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: pop widget QWidget tab_2
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: new topwidget self.tabWidget
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: pop widget QTabWidget tabWidget
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: new topwidget Dialog
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: pop widget QDialog Dialog
+2017-04-23 12:42:44 [PyQt4.uic.uiparser] DEBUG: new topwidget None
+
+yundama
